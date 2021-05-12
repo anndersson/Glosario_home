@@ -30,7 +30,7 @@ section{
 .subtitulo_1{
     text-align: center;
     background-color: midnightblue;
-    color:red;
+    color:white;
 }
 
 .subtitulo_2{
@@ -58,8 +58,25 @@ section{
        margin: 15px 0px 15px 0px;
 }
 
+h3{
+    font-size: 18px;
+    background-color: #96E8D1;
+    width: 23%;
+    text-align: center;  
+}
 
+.inicio{
+    color: #B0D9D1;
+}
 
-    
+.html{
+    width: 200px;
+}  
+
+.imagenes{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
     
 
